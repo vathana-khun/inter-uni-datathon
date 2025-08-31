@@ -1,0 +1,136 @@
+Year,Week,Resort,Predicted_Visitors
+2026.0,1,Charlotte Pass,358
+2026.0,2,Charlotte Pass,477
+2026.0,3,Charlotte Pass,182
+2026.0,4,Charlotte Pass,1342
+2026.0,5,Charlotte Pass,2264
+2026.0,6,Charlotte Pass,3080
+2026.0,7,Charlotte Pass,2993
+2026.0,8,Charlotte Pass,3161
+2026.0,9,Charlotte Pass,3547
+2026.0,10,Charlotte Pass,2930
+2026.0,11,Charlotte Pass,2376
+2026.0,12,Charlotte Pass,2724
+2026.0,13,Charlotte Pass,1120
+2026.0,14,Charlotte Pass,874
+2026.0,15,Charlotte Pass,947
+2026.0,1,Falls Creek,3925
+2026.0,2,Falls Creek,4391
+2026.0,3,Falls Creek,7112
+2026.0,4,Falls Creek,18071
+2026.0,5,Falls Creek,40651
+2026.0,6,Falls Creek,49227
+2026.0,7,Falls Creek,43142
+2026.0,8,Falls Creek,45437
+2026.0,9,Falls Creek,49575
+2026.0,10,Falls Creek,38766
+2026.0,11,Falls Creek,38454
+2026.0,12,Falls Creek,42065
+2026.0,13,Falls Creek,23085
+2026.0,14,Falls Creek,15029
+2026.0,15,Falls Creek,11140
+2026.0,1,Mt. Baw Baw,1516
+2026.0,2,Mt. Baw Baw,727
+2026.0,3,Mt. Baw Baw,1571
+2026.0,4,Mt. Baw Baw,4124
+2026.0,5,Mt. Baw Baw,10747
+2026.0,6,Mt. Baw Baw,10343
+2026.0,7,Mt. Baw Baw,8402
+2026.0,8,Mt. Baw Baw,7830
+2026.0,9,Mt. Baw Baw,9161
+2026.0,10,Mt. Baw Baw,7788
+2026.0,11,Mt. Baw Baw,5898
+2026.0,12,Mt. Baw Baw,3922
+2026.0,13,Mt. Baw Baw,1403
+2026.0,14,Mt. Baw Baw,290
+2026.0,15,Mt. Baw Baw,505
+2026.0,1,Mt. Buller,6411
+2026.0,2,Mt. Buller,7948
+2026.0,3,Mt. Buller,9857
+2026.0,4,Mt. Buller,24015
+2026.0,5,Mt. Buller,44807
+2026.0,6,Mt. Buller,56200
+2026.0,7,Mt. Buller,44507
+2026.0,8,Mt. Buller,49202
+2026.0,9,Mt. Buller,51697
+2026.0,10,Mt. Buller,44141
+2026.0,11,Mt. Buller,40174
+2026.0,12,Mt. Buller,37234
+2026.0,13,Mt. Buller,15517
+2026.0,14,Mt. Buller,1509
+2026.0,15,Mt. Buller,107
+2026.0,1,Mt. Hotham,1585
+2026.0,2,Mt. Hotham,4422
+2026.0,3,Mt. Hotham,6810
+2026.0,4,Mt. Hotham,11305
+2026.0,5,Mt. Hotham,24165
+2026.0,6,Mt. Hotham,24998
+2026.0,7,Mt. Hotham,34639
+2026.0,8,Mt. Hotham,22256
+2026.0,9,Mt. Hotham,26563
+2026.0,10,Mt. Hotham,25207
+2026.0,11,Mt. Hotham,24282
+2026.0,12,Mt. Hotham,17155
+2026.0,13,Mt. Hotham,10419
+2026.0,14,Mt. Hotham,2177
+2026.0,15,Mt. Hotham,1705
+2026.0,1,Mt. Stirling,0
+2026.0,2,Mt. Stirling,820
+2026.0,3,Mt. Stirling,97
+2026.0,4,Mt. Stirling,0
+2026.0,5,Mt. Stirling,908
+2026.0,6,Mt. Stirling,186
+2026.0,7,Mt. Stirling,1333
+2026.0,8,Mt. Stirling,1507
+2026.0,9,Mt. Stirling,1822
+2026.0,10,Mt. Stirling,1939
+2026.0,11,Mt. Stirling,1733
+2026.0,12,Mt. Stirling,660
+2026.0,13,Mt. Stirling,0
+2026.0,14,Mt. Stirling,0
+2026.0,15,Mt. Stirling,0
+2026.0,1,Perisher,8165
+2026.0,2,Perisher,8937
+2026.0,3,Perisher,8996
+2026.0,4,Perisher,23971
+2026.0,5,Perisher,58239
+2026.0,6,Perisher,63357
+2026.0,7,Perisher,60167
+2026.0,8,Perisher,58108
+2026.0,9,Perisher,67860
+2026.0,10,Perisher,55574
+2026.0,11,Perisher,46872
+2026.0,12,Perisher,42836
+2026.0,13,Perisher,22094
+2026.0,14,Perisher,10025
+2026.0,15,Perisher,5884
+2026.0,1,Selwyn,862
+2026.0,2,Selwyn,1563
+2026.0,3,Selwyn,1884
+2026.0,4,Selwyn,3473
+2026.0,5,Selwyn,7161
+2026.0,6,Selwyn,8950
+2026.0,7,Selwyn,7487
+2026.0,8,Selwyn,8512
+2026.0,9,Selwyn,8953
+2026.0,10,Selwyn,7879
+2026.0,11,Selwyn,6513
+2026.0,12,Selwyn,4990
+2026.0,13,Selwyn,2834
+2026.0,14,Selwyn,1423
+2026.0,15,Selwyn,630
+2026.0,1,Thredbo,5323
+2026.0,2,Thredbo,7464
+2026.0,3,Thredbo,9488
+2026.0,4,Thredbo,17499
+2026.0,5,Thredbo,43806
+2026.0,6,Thredbo,48728
+2026.0,7,Thredbo,45794
+2026.0,8,Thredbo,44116
+2026.0,9,Thredbo,48670
+2026.0,10,Thredbo,42044
+2026.0,11,Thredbo,38617
+2026.0,12,Thredbo,34449
+2026.0,13,Thredbo,15788
+2026.0,14,Thredbo,6122
+2026.0,15,Thredbo,2881

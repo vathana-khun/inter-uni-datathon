@@ -1,11 +1,9 @@
 Resort,Highest Lifted Point,Lowest Lifted Point,Skiable Area,Snow Making Area,Lifts,Terrain Advanced,Terrain Intermediate,Terrain Beginner
-Perisher,2034,1605,1245,53.4,47, 0.18 , 0.60 , 0.22 
-Thredbo,2037,1365,480,70,14, 0.17 , 0.67 , 0.16 
-Selwyn Snow Resort,1614,1492,45,36,11, 0.12 , 0.48 , 0.40 
-Charlotte Pass,1955,1760,50,10,6, 0.20 , 0.50 , 0.30 
-Mt Buller,1805,1375,300,70,22, 0.35 , 0.45 , 0.20 
-Mt Hotham,1945,1450,320,25,13, 0.40 , 0.40 , 0.20 
-Falls Creek,1780,1500,450,100,15, 0.28 , 0.49 , 0.23 
-Corin Forest,1220,1210,1,1,2, -   , -   , 1.00 
-Mt Baw Baw,1562,1407,30,10,7, 0.11 , 0.64 , 0.25 
-Ben Lomond,1570,1470,29,2,6, 0.15 , 0.45 , 0.40 
+Perisher,2034,1605,1245,53.4,47,0.18,0.6,0.22
+Thredbo,2037,1365,480,70,14,0.17,0.67,0.16
+Selwyn,1614,1492,45,36,11,0.12,0.48,0.4
+Charlotte Pass,1955,1760,50,10,6,0.2,0.5,0.3
+Mt. Buller,1805,1375,300,70,22,0.35,0.45,0.2
+Mt. Hotham,1945,1450,320,25,13,0.4,0.4,0.2
+Falls Creek,1780,1500,450,100,15,0.28,0.49,0.23
+Mt. Baw Baw,1562,1407,30,10,7,0.11,0.64,0.25
